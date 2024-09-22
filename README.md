@@ -16,6 +16,7 @@ To run the application, you need to install Streamlit. You can do this by runnin
 ## Prerequisites
 - Python 3.x
 - Streamlit
+- Docker
 
 ## Installation
 1. Clone the repository:
