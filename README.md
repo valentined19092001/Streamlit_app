@@ -22,3 +22,14 @@ To run the application, you need to install Streamlit. You can do this by runnin
    ```bash
    git clone https://github.com/valentined19092001/Streamlit_app.git
    cd Streamlit_app
+
+## Docker Usage
+
+This project is containerized using Docker. To run the application in a Docker container, follow these steps:
+
+1. Build the Docker image:
+   ```bash
+   docker build -t iris_explorer .
+   docker run -p 8501:8501 iris_explorer
+   and then an URL pop up and you just have to copy paste the good one ! :) 
+
