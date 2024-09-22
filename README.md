@@ -32,4 +32,4 @@ This project is containerized using Docker. To run the application in a Docker c
    docker build -t iris_explorer .
    docker run -p 8501:8501 iris_explorer
   # and then an URL pop up and you just have to copy paste the good one ! :) 
-
+  # this one on my computer : http://localhost:8501
